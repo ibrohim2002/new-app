@@ -2,11 +2,12 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home";
 import Categories from "./pages/categories";
 import Product from "./pages/product";
+import Header from "./components/common/header/header";
 
 function App() {
   return (
     <div className="App">
-      <div className="header">header</div>
+      <Header />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/categories" element={<Categories />} />

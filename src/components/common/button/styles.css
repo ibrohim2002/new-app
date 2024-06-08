@@ -1,0 +1,15 @@
+.button_component {
+  padding: 7px 44px;
+  background-color: var(--green-color);
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 4px;
+  transition: 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.button_component:hover {
+  background-color: #fff;
+  color: var(--green-color);
+  border: 1px solid var(--green-color);
+}

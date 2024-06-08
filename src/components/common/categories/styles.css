@@ -1,4 +1,15 @@
-.category-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+.catalog {
+  margin-block: 90px;
+}
+.catalog_h2 {
+  text-align: center;
+}
+.catalog_p {
+  margin-top: 15px;
+  text-align: center;
+  color: #5e6e89;
+}
+
+.catalog_cards {
+  margin-top: 60px;
 }
