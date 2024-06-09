@@ -1,15 +1,22 @@
-.catalog {
+.category {
   margin-block: 90px;
 }
-.catalog_h2 {
+.category_h2 {
   text-align: center;
 }
-.catalog_p {
+.category_p {
   margin-top: 15px;
   text-align: center;
   color: #5e6e89;
 }
 
-.catalog_cards {
+.category_cards {
   margin-top: 60px;
+}
+
+.view_all_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
 }

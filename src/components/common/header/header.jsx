@@ -12,7 +12,7 @@ export default function Header() {
         <img src="/icons/logo.svg" alt="logo" className="logo" />
       </Link>
       <div className="header_middle">
-        <Link to="/catalog">Catalog</Link>
+        <Link to="/category">category</Link>
         <Link to="/#about">About</Link>
         <Link to="/#contact">Contact us</Link>
       </div>

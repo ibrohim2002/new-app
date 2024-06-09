@@ -6,6 +6,7 @@
   border-radius: 4px;
   transition: 0.3s ease;
   border: 1px solid transparent;
+  color: #fff;
 }
 
 .button_component:hover {

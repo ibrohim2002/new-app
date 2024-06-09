@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "categoryId": null,
+    "subcategoryId": 1,
+    "name": "Name of product-1",
+    "slug": "slug-1",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 2,
+    "categoryId": null,
+    "subcategoryId": 1,
+    "name": "Name of product-2",
+    "slug": "slug-2",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 3,
+    "categoryId": null,
+    "subcategoryId": 1,
+    "name": "Name of product-3",
+    "slug": "slug-3",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 4,
+    "categoryId": null,
+    "subcategoryId": 1,
+    "name": "Name of product-4",
+    "slug": "slug-4",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 5,
+    "categoryId": null,
+    "subcategoryId": 1,
+    "name": "Name of product-5",
+    "slug": "slug-5",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 6,
+    "categoryId": 2,
+    "subcategoryId": null,
+    "name": "Name of product-6",
+    "slug": "slug-6",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 7,
+    "categoryId": 2,
+    "subcategoryId": null,
+    "name": "Name of product-7",
+    "slug": "slug-7",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 8,
+    "categoryId": 2,
+    "subcategoryId": null,
+    "name": "Name of product-8",
+    "slug": "slug-8",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 9,
+    "categoryId": 2,
+    "subcategoryId": null,
+    "name": "Name of product-9",
+    "slug": "slug-9",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 10,
+    "categoryId": 2,
+    "subcategoryId": null,
+    "name": "Name of product-10",
+    "slug": "slug-10",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 11,
+    "categoryId": null,
+    "subcategoryId": 2,
+    "name": "Name of product-11",
+    "slug": "slug-11",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 12,
+    "categoryId": null,
+    "subcategoryId": 2,
+    "name": "Name of product-12",
+    "slug": "slug-12",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 13,
+    "categoryId": null,
+    "subcategoryId": 2,
+    "name": "Name of product-13",
+    "slug": "slug-13",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 14,
+    "categoryId": null,
+    "subcategoryId": 2,
+    "name": "Name of product-14",
+    "slug": "slug-14",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 15,
+    "categoryId": null,
+    "subcategoryId": 2,
+    "name": "Name of product-15",
+    "slug": "slug-15",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 16,
+    "categoryId": null,
+    "subcategoryId": 3,
+    "name": "Name of product-16",
+    "slug": "slug-16",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 17,
+    "categoryId": null,
+    "subcategoryId": 3,
+    "name": "Name of product-17",
+    "slug": "slug-17",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 18,
+    "categoryId": null,
+    "subcategoryId": 3,
+    "name": "Name of product-18",
+    "slug": "slug-18",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 19,
+    "categoryId": null,
+    "subcategoryId": 3,
+    "name": "Name of product-19",
+    "slug": "slug-19",
+    "previewImage": "/images/1.png"
+  },
+  {
+    "id": 20,
+    "categoryId": null,
+    "subcategoryId": 3,
+    "name": "Name of product-20",
+    "slug": "slug-20",
+    "previewImage": "/images/1.png"
+  }
+]

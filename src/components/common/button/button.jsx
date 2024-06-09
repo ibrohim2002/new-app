@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 import "./styles.css";
 
-export default function Button({ children, link, onClick, className }) {
-  if (link) {
+export default function Button({ children, to, onClick, className }) {
+  if (to) {
     return (
-      <Link to={link} className={`button_component ${className}`}>
+      <Link to={to} className={`button_component ${className}`}>
         {children}
       </Link>
     );
