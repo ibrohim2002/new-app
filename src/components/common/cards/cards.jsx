@@ -7,7 +7,7 @@ export default function Cards({ data, className, baseLink }) {
   return (
     <div className={`cards ${className}`}>
       {data.map((e) => {
-        return <Card info={e} baseLink={`${baseLink}/${e.slug}`} />;
+        return <Card key={e.id} info={e} baseLink={`${baseLink}/${e.slug}`} />;
       })}
     </div>
   );

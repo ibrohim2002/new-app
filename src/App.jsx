@@ -4,6 +4,7 @@ import Categories from "./pages/categories/categories";
 import Product from "./pages/product/product";
 import Header from "./components/common/header/header";
 import Subcategories from "./pages/subcategories/subcategories";
+import Products from "./pages/products/products";
 
 function App() {
   return (
@@ -12,10 +13,10 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/categories" element={<Categories />} />
-        <Route path="/categories/:subcategoryId" element={<Subcategories />} />
+        <Route path="/categories/:categorySlug" element={<Subcategories />} />
         <Route
-          path="/categories/:subcategoryId/:productId"
-          element={<Product />}
+          path="/categories/:categorySlug/:subcategorySlug"
+          element={<Products />}
         />
         <Route path="*" element={<div>Page not found</div>} />
       </Routes>
