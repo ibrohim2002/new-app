@@ -1,6 +1,9 @@
 import { useParams } from "react-router-dom";
+import products from "../../data/products.json";
 
 export default function Product() {
-  const { productId } = useParams();
-  return <div>{productId}ser</div>;
+  const { productSlug } = useParams();
+  const product = products.find((el) => el.slug === productSlug);
+
+  return <div>{product.name}</div>;
 }

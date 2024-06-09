@@ -7,6 +7,8 @@ import { useParams } from "react-router-dom";
 
 export default function Subcategories() {
   const { categorySlug } = useParams();
+
+  console.log(categorySlug);
   const category = categories.find((el) => el.slug === categorySlug);
   const data = subcategories.filter((el) => el.categoryId === category.id);
   const data2 = products

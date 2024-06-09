@@ -18,6 +18,10 @@ function App() {
           path="/categories/:categorySlug/:subcategorySlug"
           element={<Products />}
         />
+        <Route
+          path="/categories/:categorySlug/:subcategorySlug/:productSlug"
+          element={<Product />}
+        />
         <Route path="*" element={<div>Page not found</div>} />
       </Routes>
       <div className="footer">footer</div>
