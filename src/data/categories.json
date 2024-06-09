@@ -2,121 +2,13 @@
   {
     "id": 1,
     "name": "Name of category-1",
-    "slug": "slug-1",
+    "slug": "category-slug-1",
     "previewImage": "/images/1.png"
   },
   {
     "id": 2,
     "name": "Name of category-2",
-    "slug": "slug-2",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 3,
-    "name": "Name of category-3",
-    "slug": "slug-3",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 4,
-    "name": "Name of category-4",
-    "slug": "slug-4",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 5,
-    "name": "Name of category-5",
-    "slug": "slug-5",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 6,
-    "name": "Name of category-6",
-    "slug": "slug-6",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 7,
-    "name": "Name of category-7",
-    "slug": "slug-7",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 8,
-    "name": "Name of category-8",
-    "slug": "slug-8",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 9,
-    "name": "Name of category-9",
-    "slug": "slug-9",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 10,
-    "name": "Name of category-10",
-    "slug": "slug-10",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 11,
-    "name": "Name of category-11",
-    "slug": "slug-11",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 12,
-    "name": "Name of category-12",
-    "slug": "slug-12",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 13,
-    "name": "Name of category-13",
-    "slug": "slug-13",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 14,
-    "name": "Name of category-14",
-    "slug": "slug-14",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 15,
-    "name": "Name of category-15",
-    "slug": "slug-15",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 16,
-    "name": "Name of category-16",
-    "slug": "slug-16",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 17,
-    "name": "Name of category-17",
-    "slug": "slug-17",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 18,
-    "name": "Name of category-18",
-    "slug": "slug-18",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 19,
-    "name": "Name of category-19",
-    "slug": "slug-19",
-    "previewImage": "/images/1.png"
-  },
-  {
-    "id": 20,
-    "name": "Name of category-20",
-    "slug": "slug-20",
+    "slug": "category-slug-2",
     "previewImage": "/images/1.png"
   }
 ]
