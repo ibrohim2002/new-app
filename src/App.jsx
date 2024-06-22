@@ -6,9 +6,12 @@ import Header from "./components/common/header/header";
 import Subcategories from "./pages/subcategories/subcategories";
 import Products from "./pages/products/products";
 
+import "./index.css";
+import Footer from "./components/common/footer/footer";
+
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -24,7 +27,7 @@ function App() {
         />
         <Route path="*" element={<div>Page not found</div>} />
       </Routes>
-      <div className="footer">footer</div>
+      <Footer />
     </div>
   );
 }

@@ -126,3 +126,7 @@ button {
 .skiptranslate {
   display: none !important;
 }
+
+.app {
+  margin-top: 60px;
+}

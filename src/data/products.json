@@ -5,7 +5,9 @@
     "subcategoryId": 1,
     "name": "Name of product-1",
     "slug": "product-slug-1",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "subcategoryId": null,
     "name": "Name of product-2",
     "slug": "product-slug-2",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "subcategoryId": 1,
     "name": "Name of product-3",
     "slug": "product-slug-3",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "subcategoryId": null,
     "name": "Name of product-4",
     "slug": "product-slug-4",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "subcategoryId": 1,
     "name": "Name of product-5",
     "slug": "product-slug-5",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   },
   {
     "id": 6,
@@ -45,6 +55,18 @@
     "subcategoryId": null,
     "name": "Name of product-6",
     "slug": "product-slug-6",
-    "previewImage": "/images/1.png"
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
+  },
+  {
+    "id": 7,
+    "categoryId": 1,
+    "subcategoryId": null,
+    "name": "Name of product-7",
+    "slug": "product-slug-7",
+    "previewImage": "/images/1.png",
+    "price": "99.89",
+    "rte": ""
   }
 ]

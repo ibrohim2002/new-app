@@ -1,0 +1,23 @@
+.product_view {
+  display: flex;
+  gap: 20px;
+  padding-block: 100px;
+}
+.product_left {
+  width: 50%;
+}
+.product_left img {
+  width: 100%;
+  object-fit: contain;
+}
+.product_right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.product_right h2 {
+}
+.product_right p {
+  color: #56b280;
+}
