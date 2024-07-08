@@ -1,9 +1,1309 @@
-[
-  {
-    "id": 1,
-    "categoryId": 1,
-    "name": "Name of subcategory-1",
-    "slug": "subcategory-slug-1",
-    "previewImage": "/images/1.png"
+{
+    "data": [
+      {
+        "id": 2,
+        "attributes": {
+          "name": "Газовый редуктор",
+          "createdAt": "2024-06-22T20:26:46.888Z",
+          "updatedAt": "2024-06-26T18:03:14.129Z",
+          "publishedAt": "2024-06-22T20:34:24.032Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 5,
+                "attributes": {
+                  "name": "Газовый редуктор 1000 mbar",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003EГазовый реду́ктор\u003C/span\u003E\u003Cspan style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E&nbsp;— устройство для понижения \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5\" title=\"Давление\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eдавления\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7\" title=\"Газ\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eгаза\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E или \u003C/span\u003E\u003C/span\u003E\u003Ca class=\"new\" style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(186, 0, 0);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BC%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1\" title=\"Газовая смесь (страница отсутствует)\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eгазовой смеси\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E на выходе из какой-либо ёмкости (например, в \u003C/span\u003E\u003C/span\u003E\u003Ca class=\"mw-redirect\" style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD_(%D0%B4%D0%B0%D0%B9%D0%B2%D0%B8%D0%BD%D0%B3)\" title=\"Баллон (дайвинг)\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eбаллоне\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E или газопроводе) до рабочего и для автоматического поддержания этого давления постоянным независимо от изменения давления газа в баллоне или газопроводе.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\" style=\"width:35.81%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:32.15%;\"\u003E\u003Ccol style=\"width:67.85%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-15\u003C/td\u003E\u003Ctd\u003E30\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-20\u003C/td\u003E\u003Ctd\u003E30\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-25\u003C/td\u003E\u003Ctd\u003E30\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-22T20:33:24.745Z",
+                  "updatedAt": "2024-06-22T20:34:49.440Z",
+                  "publishedAt": "2024-06-22T20:34:49.435Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 6,
+                "attributes": {
+                  "name": "Газовый редуктор 2000 mbar",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003EГазовый реду́ктор\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E&nbsp;— устройство для понижения \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5\" title=\"Давление\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eдавления\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7\" title=\"Газ\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eгаза\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E или \u003C/span\u003E\u003C/span\u003E\u003Ca class=\"new\" style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(186, 0, 0);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BC%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1\" title=\"Газовая смесь (страница отсутствует)\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eгазовой смеси\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E на выходе из какой-либо ёмкости (например, в \u003C/span\u003E\u003C/span\u003E\u003Ca class=\"mw-redirect\" style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD_(%D0%B4%D0%B0%D0%B9%D0%B2%D0%B8%D0%BD%D0%B3)\" title=\"Баллон (дайвинг)\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eбаллоне\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E или газопроводе) до рабочего и для автоматического поддержания этого давления постоянным независимо от изменения давления газа в баллоне или газопроводе.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\" style=\"width:35.06%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:43.14%;\"\u003E\u003Ccol style=\"width:56.86%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-15\u003C/td\u003E\u003Ctd\u003E8\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-20\u003C/td\u003E\u003Ctd\u003E8\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-25\u003C/td\u003E\u003Ctd\u003E8\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-32\u003C/td\u003E\u003Ctd\u003E2\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-40\u003C/td\u003E\u003Ctd\u003E2\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-50\u003C/td\u003E\u003Ctd\u003E2\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-22T20:39:51.559Z",
+                  "updatedAt": "2024-06-22T20:57:51.249Z",
+                  "publishedAt": "2024-06-22T20:39:53.895Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "name": "Enzo",
+                "createdAt": "2024-06-22T19:37:21.266Z",
+                "updatedAt": "2024-06-22T19:37:22.513Z",
+                "publishedAt": "2024-06-22T19:37:22.509Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 33,
+              "attributes": {
+                "name": "photo_2024-03-06_09-32-17 (3).jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1031,
+                "height": 1280,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "/uploads/large_photo_2024_03_06_09_32_17_3_e6e9a2245e.jpg",
+                    "hash": "large_photo_2024_03_06_09_32_17_3_e6e9a2245e",
+                    "mime": "image/jpeg",
+                    "name": "large_photo_2024-03-06_09-32-17 (3).jpg",
+                    "path": null,
+                    "size": 131.06,
+                    "width": 805,
+                    "height": 1000,
+                    "sizeInBytes": 131063
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_03_06_09_32_17_3_e6e9a2245e.jpg",
+                    "hash": "small_photo_2024_03_06_09_32_17_3_e6e9a2245e",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-03-06_09-32-17 (3).jpg",
+                    "path": null,
+                    "size": 34.63,
+                    "width": 403,
+                    "height": 500,
+                    "sizeInBytes": 34630
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2024_03_06_09_32_17_3_e6e9a2245e.jpg",
+                    "hash": "medium_photo_2024_03_06_09_32_17_3_e6e9a2245e",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2024-03-06_09-32-17 (3).jpg",
+                    "path": null,
+                    "size": 76.04,
+                    "width": 604,
+                    "height": 750,
+                    "sizeInBytes": 76038
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_03_06_09_32_17_3_e6e9a2245e.jpg",
+                    "hash": "thumbnail_photo_2024_03_06_09_32_17_3_e6e9a2245e",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-03-06_09-32-17 (3).jpg",
+                    "path": null,
+                    "size": 4.38,
+                    "width": 125,
+                    "height": 156,
+                    "sizeInBytes": 4383
+                  }
+                },
+                "hash": "photo_2024_03_06_09_32_17_3_e6e9a2245e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 200.12,
+                "url": "/uploads/photo_2024_03_06_09_32_17_3_e6e9a2245e.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-26T18:03:05.083Z",
+                "updatedAt": "2024-06-26T18:03:05.083Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "name": "Газовый фильтры",
+          "createdAt": "2024-06-22T20:41:47.952Z",
+          "updatedAt": "2024-06-22T20:41:49.604Z",
+          "publishedAt": "2024-06-22T20:41:49.598Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 7,
+                "attributes": {
+                  "name": "Газовый фильтр маленький",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003EГазовый фильтр\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E&nbsp;— устройство для очистки \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4\" title=\"Газопровод\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eтрубопроводного газа\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E от \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%9F%D1%8B%D0%BB%D1%8C\" title=\"Пыль\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eпыли\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E, \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%A0%D0%B6%D0%B0%D0%B2%D1%87%D0%B8%D0%BD%D0%B0\" title=\"Ржавчина\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eржавчины\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E, \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B0\" title=\"Смола\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eсмолистых\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E веществ и других твёрдых частиц. Очистка газа позволяет повысить \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F\" title=\"Герметизация\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eгерметичность\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B0\" title=\"Запорная арматура\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eзапорных устройств\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E, а также увеличить межремонтное время эксплуатации этих устройств за счёт уменьшения \u003C/span\u003E\u003C/span\u003E\u003Ca style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(6, 69, 173);font-family:sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;overflow-wrap:break-word;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BD%D0%BE%D1%81_(%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)\" title=\"Износ (техника)\"\u003E\u003Cspan style=\"color:rgb(32,33,34);font-size:14px;\"\u003Eизноса\u003C/span\u003E\u003C/a\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,34);font-family:sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E уплотняющих поверхностей\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\" style=\"width:40.88%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:48.58%;\"\u003E\u003Ccol style=\"width:51.42%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в Коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-15\u003C/td\u003E\u003Ctd\u003E100\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-20\u003C/td\u003E\u003Ctd\u003E100\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-25\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-22T20:44:56.598Z",
+                  "updatedAt": "2024-06-22T20:45:55.264Z",
+                  "publishedAt": "2024-06-22T20:45:04.034Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 8,
+                "attributes": {
+                  "name": "Газовый фильтр большой",
+                  "info": "\u003Cfigure class=\"table\" style=\"width:64.47%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:44.39%;\"\u003E\u003Ccol style=\"width:55.61%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-32\u003C/td\u003E\u003Ctd\u003E10\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-40\u003C/td\u003E\u003Ctd\u003E10\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ED-50\u003C/td\u003E\u003Ctd\u003E10\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-22T20:55:10.539Z",
+                  "updatedAt": "2024-06-22T20:55:16.305Z",
+                  "publishedAt": "2024-06-22T20:55:16.301Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "name": "Enzo",
+                "createdAt": "2024-06-22T19:37:21.266Z",
+                "updatedAt": "2024-06-22T19:37:22.513Z",
+                "publishedAt": "2024-06-22T19:37:22.509Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 16,
+              "attributes": {
+                "name": "Fil_tr_gazovyjj__mini__eurogas.1-1000x1000.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1000,
+                "height": 1000,
+                "formats": {
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef.jpg",
+                    "hash": "small_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef",
+                    "mime": "image/jpeg",
+                    "name": "small_Fil_tr_gazovyjj__mini__eurogas.1-1000x1000.jpg",
+                    "path": null,
+                    "size": 26.94,
+                    "width": 500,
+                    "height": 500,
+                    "sizeInBytes": 26935
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef.jpg",
+                    "hash": "medium_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef",
+                    "mime": "image/jpeg",
+                    "name": "medium_Fil_tr_gazovyjj__mini__eurogas.1-1000x1000.jpg",
+                    "path": null,
+                    "size": 57.92,
+                    "width": 750,
+                    "height": 750,
+                    "sizeInBytes": 57916
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef.jpg",
+                    "hash": "thumbnail_Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_Fil_tr_gazovyjj__mini__eurogas.1-1000x1000.jpg",
+                    "path": null,
+                    "size": 3.74,
+                    "width": 156,
+                    "height": 156,
+                    "sizeInBytes": 3742
+                  }
+                },
+                "hash": "Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 87.55,
+                "url": "/uploads/Fil_tr_gazovyjj_mini_eurogas_1_1000x1000_8c50e176ef.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-22T20:41:42.886Z",
+                "updatedAt": "2024-06-22T20:41:42.886Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "Газ манометры",
+          "createdAt": "2024-06-23T03:37:15.951Z",
+          "updatedAt": "2024-06-26T16:55:44.908Z",
+          "publishedAt": "2024-06-23T03:37:17.193Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 10,
+                "attributes": {
+                  "name": "Газ манометр 100mbar",
+                  "info": "\u003Cfigure class=\"table\" style=\"width:33.79%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:60.75%;\"\u003E\u003Ccol style=\"width:39.25%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EТип подключения\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EЗадный&nbsp;\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EНижный&nbsp;\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T03:34:40.333Z",
+                  "updatedAt": "2024-06-26T18:04:36.368Z",
+                  "publishedAt": "2024-06-23T03:34:42.392Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 11,
+                "attributes": {
+                  "name": "Газ манометр 600mbar",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EТип\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDN-08 (¼\")\u003C/td\u003E\u003Ctd\u003EНижный\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T03:36:25.832Z",
+                  "updatedAt": "2024-06-26T18:06:24.661Z",
+                  "publishedAt": "2024-06-23T03:36:32.304Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "name": "Enzo",
+                "createdAt": "2024-06-22T19:37:21.266Z",
+                "updatedAt": "2024-06-22T19:37:22.513Z",
+                "publishedAt": "2024-06-22T19:37:22.509Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 20,
+              "attributes": {
+                "name": "photo_2024-06-26_21-55-25.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 957,
+                "height": 1280,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "/uploads/large_photo_2024_06_26_21_55_25_be2aae543c.jpg",
+                    "hash": "large_photo_2024_06_26_21_55_25_be2aae543c",
+                    "mime": "image/jpeg",
+                    "name": "large_photo_2024-06-26_21-55-25.jpg",
+                    "path": null,
+                    "size": 99.59,
+                    "width": 748,
+                    "height": 1000,
+                    "sizeInBytes": 99594
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_06_26_21_55_25_be2aae543c.jpg",
+                    "hash": "small_photo_2024_06_26_21_55_25_be2aae543c",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-06-26_21-55-25.jpg",
+                    "path": null,
+                    "size": 37.14,
+                    "width": 374,
+                    "height": 500,
+                    "sizeInBytes": 37144
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2024_06_26_21_55_25_be2aae543c.jpg",
+                    "hash": "medium_photo_2024_06_26_21_55_25_be2aae543c",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2024-06-26_21-55-25.jpg",
+                    "path": null,
+                    "size": 66.92,
+                    "width": 561,
+                    "height": 750,
+                    "sizeInBytes": 66919
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_06_26_21_55_25_be2aae543c.jpg",
+                    "hash": "thumbnail_photo_2024_06_26_21_55_25_be2aae543c",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-06-26_21-55-25.jpg",
+                    "path": null,
+                    "size": 5.56,
+                    "width": 117,
+                    "height": 156,
+                    "sizeInBytes": 5561
+                  }
+                },
+                "hash": "photo_2024_06_26_21_55_25_be2aae543c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 145.09,
+                "url": "/uploads/photo_2024_06_26_21_55_25_be2aae543c.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-26T16:55:42.086Z",
+                "updatedAt": "2024-06-26T16:55:42.086Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "name": "Солдатик",
+          "createdAt": "2024-06-23T04:39:08.170Z",
+          "updatedAt": "2024-06-26T16:59:53.697Z",
+          "publishedAt": "2024-06-23T04:39:09.307Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 27,
+                "attributes": {
+                  "name": "1/2\" АВТОМАТИЧЕСКИЙ ВОЗДУХООТВОДЧИК",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(93,94,101);font-family:&quot;Ropa Sans&quot;, sans-serif;font-size:15px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EАвтоматический воздухоотводчик производятся для автоматического удаления воздуха, образующегося в замкнутых системах, работающих с водой, и предотвращения повреждений, вызванных скоплением воздуха.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E4315\u003C/td\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E25\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:38:44.888Z",
+                  "updatedAt": "2024-06-27T16:35:01.761Z",
+                  "publishedAt": "2024-06-23T04:38:46.061Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 28,
+                "attributes": {
+                  "name": "1/2\" АВТОМАТИЧЕСКИЙ ВОЗДУХООТВОДЧИК",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(93,94,101);font-family:&quot;Ropa Sans&quot;, sans-serif;font-size:15px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EАвтоматический воздухоотводчик производятся для автоматического удаления воздуха, образующегося в замкнутых системах, работающих с водой, и предотвращения повреждений, вызванных скоплением воздуха.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКолл. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E2315\u003C/td\u003E\u003Ctd\u003EDN-10\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E2315\u003C/td\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E60\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:41:01.994Z",
+                  "updatedAt": "2024-06-27T16:32:51.026Z",
+                  "publishedAt": "2024-06-23T04:41:03.379Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 29,
+                "attributes": {
+                  "name": "1/2\" АВТОМАТИЧЕСКИЙ ВОЗДУХООТВОДЧИК С Боковым Выходом",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(93,94,101);font-family:&quot;Ropa Sans&quot;, sans-serif;font-size:15px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EАвтоматический воздухоотводчик производятся для автоматического удаления воздуха, образующегося в замкнутых системах, работающих с водой, и предотвращения повреждений, вызванных скоплением воздуха.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E6315\u003C/td\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E50\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:43:14.370Z",
+                  "updatedAt": "2024-06-28T06:16:09.458Z",
+                  "publishedAt": "2024-06-23T04:43:15.552Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Case",
+                "createdAt": "2024-06-22T19:28:28.854Z",
+                "updatedAt": "2024-06-22T19:28:31.618Z",
+                "publishedAt": "2024-06-22T19:28:31.606Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 22,
+              "attributes": {
+                "name": "photo_2024-06-26_21-59-22.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1080,
+                "height": 1080,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "/uploads/large_photo_2024_06_26_21_59_22_4eae549853.jpg",
+                    "hash": "large_photo_2024_06_26_21_59_22_4eae549853",
+                    "mime": "image/jpeg",
+                    "name": "large_photo_2024-06-26_21-59-22.jpg",
+                    "path": null,
+                    "size": 66.55,
+                    "width": 1000,
+                    "height": 1000,
+                    "sizeInBytes": 66553
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_06_26_21_59_22_4eae549853.jpg",
+                    "hash": "small_photo_2024_06_26_21_59_22_4eae549853",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-06-26_21-59-22.jpg",
+                    "path": null,
+                    "size": 19.87,
+                    "width": 500,
+                    "height": 500,
+                    "sizeInBytes": 19870
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2024_06_26_21_59_22_4eae549853.jpg",
+                    "hash": "medium_photo_2024_06_26_21_59_22_4eae549853",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2024-06-26_21-59-22.jpg",
+                    "path": null,
+                    "size": 40.93,
+                    "width": 750,
+                    "height": 750,
+                    "sizeInBytes": 40932
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_06_26_21_59_22_4eae549853.jpg",
+                    "hash": "thumbnail_photo_2024_06_26_21_59_22_4eae549853",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-06-26_21-59-22.jpg",
+                    "path": null,
+                    "size": 2.91,
+                    "width": 156,
+                    "height": 156,
+                    "sizeInBytes": 2909
+                  }
+                },
+                "hash": "photo_2024_06_26_21_59_22_4eae549853",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 75.01,
+                "url": "/uploads/photo_2024_06_26_21_59_22_4eae549853.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-26T16:59:49.783Z",
+                "updatedAt": "2024-06-26T16:59:49.783Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "name": "Редуктор воды",
+          "createdAt": "2024-06-23T04:46:13.014Z",
+          "updatedAt": "2024-06-26T16:58:08.221Z",
+          "publishedAt": "2024-06-23T04:46:14.101Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 31,
+                "attributes": {
+                  "name": "Редуктор ТИП-минйон",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(93,94,101);font-family:&quot;Ropa Sans&quot;, sans-serif;font-size:15px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EРедуктор давления воды предназначены для снижения давления водопроводной воды высокого давления и предотвращения повреждений, которые могут возникнуть в установках и устройствах, подключенных к установкам из-за высокого давления\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E25\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E40\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:47:44.917Z",
+                  "updatedAt": "2024-06-27T16:27:18.821Z",
+                  "publishedAt": "2024-06-23T04:47:46.029Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 32,
+                "attributes": {
+                  "name": "Редуктор ТИП-DK",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E1920\u003C/td\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E25\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E1920\u003C/td\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E25\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E1920\u003C/td\u003E\u003Ctd\u003EDN-25\u003C/td\u003E\u003Ctd\u003E20\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:49:15.797Z",
+                  "updatedAt": "2024-06-27T16:27:00.736Z",
+                  "publishedAt": "2024-06-23T04:49:17.226Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 33,
+                "attributes": {
+                  "name": "Редуктор  ТИП-MULTI",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(93,94,101);font-family:&quot;Ropa Sans&quot;, sans-serif;font-size:15px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EРедуктор давления воды предназначены для снижения давления водопроводной воды высокого давления и предотвращения повреждений, которые могут возникнуть в установках и устройствах, подключенных к установкам из-за высокого давления.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDN-25*32\u003C/td\u003E\u003Ctd\u003E10\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:50:32.715Z",
+                  "updatedAt": "2024-06-27T16:27:35.443Z",
+                  "publishedAt": "2024-06-23T04:50:38.063Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 34,
+                "attributes": {
+                  "name": "Редуктор ТИП-PM",
+                  "info": "\u003Cfigure class=\"table\" style=\"width:41.32%;\"\u003E\u003Ctable class=\"ck-table-resized\"\u003E\u003Ccolgroup\u003E\u003Ccol style=\"width:27.86%;\"\u003E\u003Ccol style=\"width:25.19%;\"\u003E\u003Ccol style=\"width:46.95%;\"\u003E\u003C/colgroup\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E0350\u003C/td\u003E\u003Ctd\u003EDN-32\u003C/td\u003E\u003Ctd\u003E1\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E0350\u003C/td\u003E\u003Ctd\u003EDN-40\u003C/td\u003E\u003Ctd\u003E1\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E0350\u003C/td\u003E\u003Ctd\u003EDN-50\u003C/td\u003E\u003Ctd\u003E1\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E0350\u003C/td\u003E\u003Ctd\u003EDN-63\u003C/td\u003E\u003Ctd\u003E1\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E0350\u003C/td\u003E\u003Ctd\u003EDN-76\u003C/td\u003E\u003Ctd\u003E1\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T04:52:59.184Z",
+                  "updatedAt": "2024-06-27T16:31:06.952Z",
+                  "publishedAt": "2024-06-23T04:53:00.478Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "Case",
+                "createdAt": "2024-06-22T19:28:28.854Z",
+                "updatedAt": "2024-06-22T19:28:31.618Z",
+                "publishedAt": "2024-06-22T19:28:31.606Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 21,
+              "attributes": {
+                "name": "photo_2024-06-26_21-57-48.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 640,
+                "height": 640,
+                "formats": {
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_06_26_21_57_48_466d9c1fd4.jpg",
+                    "hash": "small_photo_2024_06_26_21_57_48_466d9c1fd4",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-06-26_21-57-48.jpg",
+                    "path": null,
+                    "size": 20.02,
+                    "width": 500,
+                    "height": 500,
+                    "sizeInBytes": 20025
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_06_26_21_57_48_466d9c1fd4.jpg",
+                    "hash": "thumbnail_photo_2024_06_26_21_57_48_466d9c1fd4",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-06-26_21-57-48.jpg",
+                    "path": null,
+                    "size": 3.01,
+                    "width": 156,
+                    "height": 156,
+                    "sizeInBytes": 3011
+                  }
+                },
+                "hash": "photo_2024_06_26_21_57_48_466d9c1fd4",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 31.76,
+                "url": "/uploads/photo_2024_06_26_21_57_48_466d9c1fd4.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-26T16:58:04.991Z",
+                "updatedAt": "2024-06-26T16:58:04.991Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "name": "Фильтр воды",
+          "createdAt": "2024-06-23T04:57:00.440Z",
+          "updatedAt": "2024-06-26T17:02:06.674Z",
+          "publishedAt": "2024-06-23T04:57:01.835Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 35,
+                "attributes": {
+                  "name": "Фильтр для котлов 9005",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,36);font-family:&quot;Google Sans&quot;, Arial, sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E\u003Cstrong\u003EПолифосфатный фильтр для газового котла отопления\u003C/strong\u003E – \u003C/span\u003E\u003C/span\u003E\u003Cspan style=\"font-size:14px;\"\u003Eодноступенчатая система очистки воды, которая позволяет сократить отложения на деталях котла отопления\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255,255,255);color:rgb(32,33,36);font-family:&quot;Google Sans&quot;, Arial, sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9005\u003C/td\u003E\u003Ctd\u003EDN-15\u003C/td\u003E\u003Ctd\u003E6 BAR\u003C/td\u003E\u003Ctd\u003E40 \u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°\u003C/span\u003E\u003C/span\u003EС\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T05:01:21.331Z",
+                  "updatedAt": "2024-06-28T07:01:48.400Z",
+                  "publishedAt": "2024-06-23T05:01:24.109Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 36,
+                "attributes": {
+                  "name": "Одноступенчатый водяной фильтр. 9001",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9001\u003C/td\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T05:03:58.720Z",
+                  "updatedAt": "2024-06-28T06:50:18.582Z",
+                  "publishedAt": "2024-06-23T05:05:36.427Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 37,
+                "attributes": {
+                  "name": "Двухступенчатый водяной фильтр. 9002",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9002\u003C/td\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T05:05:17.289Z",
+                  "updatedAt": "2024-06-28T06:50:04.522Z",
+                  "publishedAt": "2024-06-23T05:05:18.716Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 44,
+                "attributes": {
+                  "name": "Трехступенчатый водяной фильтр. 9003",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9003\u003C/td\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:46:44.821Z",
+                  "updatedAt": "2024-06-28T06:49:52.902Z",
+                  "publishedAt": "2024-06-28T06:46:45.824Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 45,
+                "attributes": {
+                  "name": "Одноступенчатый водяной фильтр. 9011",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9011\u003C/td\u003E\u003Ctd\u003EDN-25\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:53:29.246Z",
+                  "updatedAt": "2024-06-28T06:54:36.066Z",
+                  "publishedAt": "2024-06-28T06:53:31.472Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 46,
+                "attributes": {
+                  "name": "Двухступенчатый водяной фильтр с манометром. 9012",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9012\u003C/td\u003E\u003Ctd\u003EDN-25\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:56:00.028Z",
+                  "updatedAt": "2024-06-28T06:58:34.018Z",
+                  "publishedAt": "2024-06-28T06:56:00.889Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 47,
+                "attributes": {
+                  "name": "Трехступенчатый водяной фильтр с манометром.9013",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9013\u003C/td\u003E\u003Ctd\u003EDN-25\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:56:52.494Z",
+                  "updatedAt": "2024-06-28T06:58:49.879Z",
+                  "publishedAt": "2024-06-28T06:56:53.538Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 49,
+                "attributes": {
+                  "name": "6-ступенчатая система обратного осмоса",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgba(0,0,0,0.894);font-family:SegoeUIVariable, SegoeUI, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, &quot;Microsoft YaHei&quot;, &quot;Meiryo UI&quot;, Meiryo, &quot;Arial Unicode MS&quot;, sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003E6-ступенчатая система обратного осмоса — это система фильтрации воды, которая проходит через шесть этапов очистки. Обратный осмос — это процесс, при котором вода проходит через полупроницаемую мембрану, удаляя из нее примеси и загрязнения. Такая система обычно используется для получения чистой питьевой воды.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EДавления\u003C/td\u003E\u003Ctd\u003EМакс. Температура\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E9016\u003C/td\u003E\u003Ctd\u003EDN-20\u003C/td\u003E\u003Ctd\u003E8 BAR\u003C/td\u003E\u003Ctd\u003E40\u003Cspan style=\"background-color:white;color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:10.5pt;\"\u003E\u003Cspan style=\"line-height:107%;\"\u003E°C\u003C/span\u003E\u003C/span\u003E\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T14:08:22.935Z",
+                  "updatedAt": "2024-06-28T14:16:12.591Z",
+                  "publishedAt": "2024-06-28T14:15:30.318Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Expert",
+                "createdAt": "2024-06-22T19:27:06.510Z",
+                "updatedAt": "2024-06-22T19:27:08.634Z",
+                "publishedAt": "2024-06-22T19:27:08.623Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 19,
+              "attributes": {
+                "name": "photo_2023-09-09_09-53-14.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 800,
+                "height": 800,
+                "formats": {
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2023_09_09_09_53_14_d32bc533a5.jpg",
+                    "hash": "small_photo_2023_09_09_09_53_14_d32bc533a5",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2023-09-09_09-53-14.jpg",
+                    "path": null,
+                    "size": 13.57,
+                    "width": 500,
+                    "height": 500,
+                    "sizeInBytes": 13573
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2023_09_09_09_53_14_d32bc533a5.jpg",
+                    "hash": "medium_photo_2023_09_09_09_53_14_d32bc533a5",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2023-09-09_09-53-14.jpg",
+                    "path": null,
+                    "size": 25.56,
+                    "width": 750,
+                    "height": 750,
+                    "sizeInBytes": 25562
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2023_09_09_09_53_14_d32bc533a5.jpg",
+                    "hash": "thumbnail_photo_2023_09_09_09_53_14_d32bc533a5",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2023-09-09_09-53-14.jpg",
+                    "path": null,
+                    "size": 2.51,
+                    "width": 156,
+                    "height": 156,
+                    "sizeInBytes": 2505
+                  }
+                },
+                "hash": "photo_2023_09_09_09_53_14_d32bc533a5",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 28.26,
+                "url": "/uploads/photo_2023_09_09_09_53_14_d32bc533a5.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-26T16:52:11.412Z",
+                "updatedAt": "2024-06-26T16:52:11.412Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 13,
+        "attributes": {
+          "name": "Сварочный аппарат",
+          "createdAt": "2024-06-27T16:50:54.586Z",
+          "updatedAt": "2024-06-28T06:19:53.697Z",
+          "publishedAt": "2024-06-28T06:19:53.692Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 12,
+                "attributes": {
+                  "name": "CM-03 SET-V ",
+                  "info": "\u003Cp\u003EАппарат сварочный для полипропилена “CANDAN CM-03” предназначен для сварки неармированных и армированных полипропиленовых труб с фитингами диаметром от 20 до 63 мм. Данный аппарат имеет мечевидную форму нагревателя из нержавеющей стали с возможностью установки на нем одновременно трех сварочных насадок. Нагревательный элемент имеет два независимых контура мощностью по 750 Вт каждый, при одновременном включении которых, достигается полная мощность аппарата 1500 Вт. Выключатели управления нагревателей расположены сверху и оборудованы подсветкой. Сварочный аппарат для труб “CANDAN CM-03” оснащен термостатом для установки оптимальной температуры от 50 до 320 С при проведении сварочных работ с трубами и фитингами различных диаметров. Управление термостатом находится на боковой части аппарата в виде регулятора.\u003C/p\u003E\u003Cp\u003E“CANDAN CM-03” поставляется в комплекте с чемоданом, в который, помимо самого сварочника, еще входят ножницы для резки труб, рулетка, подставка для установки аппарата, уровень, инструкция на русском языке и гарантийный талон.\u003C/p\u003E\u003Cp\u003E&nbsp;\u003C/p\u003E\u003Cp\u003E\u003Cstrong\u003EТехнические характеристики:\u003C/strong\u003E\u003Cbr\u003EДиаметр свариваемых труб: 20 – 40 мм;\u003Cbr\u003EМощность: 1500 Вт (двойной элемент 750+750 Вт);\u003Cbr\u003EНапряжение: 220-240 В;\u003Cbr\u003EЧастота 50-60 Гц;\u003Cbr\u003EРабочая температура: 270оС;\u003Cbr\u003EНагреватель из нержавеющего материала с возможностью одновременной установки сразу двух нагревательных насадок;\u003Cbr\u003EИндикатор регулировки термостата: 50-320оС;\u003Cbr\u003EКабель питания: 3х2,5мм;\u003Cbr\u003EУровень защиты: IP 44;\u003Cbr\u003EПредохранитель: 16А;\u003Cbr\u003EВес: 6,0 кг;\u003Cbr\u003EАртикул: CM-03 SET-V\u003Cbr\u003EИсточник: https://candan.ru/product/svarochnyj-apparat-candan-sm-03\u003C/p\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-23T03:46:03.179Z",
+                  "updatedAt": "2024-06-27T16:55:22.176Z",
+                  "publishedAt": "2024-06-23T03:46:06.528Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 39,
+                "attributes": {
+                  "name": "СМ-01 Gold",
+                  "info": "\u003Cp\u003EПаяльник для полипропиленовых труб&nbsp;“СANDAN СМ-01” “GOLD” – это&nbsp;самый лучший аппарат&nbsp;в своем классе, выпускаемый Турецкой компании Candan Makina Ltd Şti. для сварки&nbsp;труб и фитингов диаметром от 20 до 63 мм.\u003Cbr\u003EСварочный аппарат «CANDAN СМ-01» имеет удобную систему управления, включающую в себя регулятор термостата с возможностью установки необходимой температуры от 50 до 320 ºС и двойной переключатель со световой индикацией для управления двухконтурной системой нагревательного элемента. Каждый контур которого имеет раздельную мощность нагрева 850 и 650 Вт, что в совокупности составляет общую мощность паяльника “СANDAN СМ-01” 1500 Вт\u003Cbr\u003E&nbsp;\u003C/p\u003E\u003Cp\u003EТехнические характеристики:\u003Cbr\u003EДиаметры свариваемых труб: 16 – 75 мм;\u003Cbr\u003EМощность: 1500 Вт (двойной элемент 650+850 Вт\u003Cbr\u003EНапряжение: 220-240 В;\u003Cbr\u003EЧастота: 50-60 Гц;\u003Cbr\u003EРабочая температура: 270оС;\u003Cbr\u003EКабель: &nbsp;3X1,5 мм²;2mt. огнеустойчив, выдерживает нагревание до 300 ° C;\u003Cbr\u003EНагреватель из нержавеющего материала с возможностью одновременной установки сразу трех нагревательных насадок;\u003Cbr\u003EИндикатор регулировки термостата: 50 – 320оС;\u003Cbr\u003EКабель питания: поперечное сечение 3Х2,5 мм;\u003Cbr\u003EУровень защиты: IP 44\u003Cbr\u003EПредохранитель: 16А\u003Cbr\u003EВес: 6,5 кг;\u003Cbr\u003EАртикул: CM-01 (GOLD)\u003Cbr\u003EИсточник: https://candan.ru/product/svarochnyj-apparat-candan-sm-01\u003Cbr\u003E\u003Cbr\u003E&nbsp;\u003C/p\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:19:29.650Z",
+                  "updatedAt": "2024-06-28T06:20:58.625Z",
+                  "publishedAt": "2024-06-28T06:19:32.436Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 40,
+                "attributes": {
+                  "name": "CM-04",
+                  "info": "\u003Cp\u003EСварочный аппарат “CANDAN СМ-04” предназначен для сварки полипропиленовых труб и фитингов большого диаметра от 50 до 110 мм. Данная модель зарекомендовала себя как надежный аппарат с удобной конструкцией нагревательного элемента, выполненного в виде круга с отверстием для установки только одной насадки по центу нагревателя.\u003C/p\u003E\u003Cp\u003EМощность каждого контура составляет 1000 Вт, при включении обоих контуров, развивается максимальная мощность данного сварочного аппарата 2000 Вт и ее вполне хватает для работы с трубами 90 и 110 мм (кстати, если нужно паять трубы большего диаметра или нужна побольше мощность, то обратите внимание на сварочный аппарат CANDAN СМ-05). Для дополнительной регулировки рабочей температуры “CANDAN СМ-04” оборудуется термостатом, с возможность установки оптимальной рабочей температуры от 20 до 320 ºС.\u003C/p\u003E\u003Cp\u003EТехнические характеристики:\u003Cbr\u003EДиаметры свариваемых труб: 50 – 110 мм;\u003Cbr\u003EМощность: 2000 Вт (двойной нагревательный элемент 1000+1000 Вт);\u003Cbr\u003EНапряжение: 220-240 В;\u003Cbr\u003EЧастота 50-60 Гц;\u003Cbr\u003EРабочая температура: 270оС;\u003Cbr\u003EНагреватель из нержавеющего материала, покрытый сверху антипригарным покрытием;\u003Cbr\u003EИндикатор регулировки термостата: 50-320оС;\u003Cbr\u003EКабель питания: 3х2,5мм;\u003Cbr\u003EУровень защиты: IP 44;\u003Cbr\u003EПредохранитель: 16А;\u003Cbr\u003EВес: 7,7 кг;\u003Cbr\u003EАртикул: CM-04 (BIG)\u003Cbr\u003EИсточник: https://candan.ru/product/svarochnyj-apparat-candan-sm-04\u003C/p\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:24:05.742Z",
+                  "updatedAt": "2024-06-28T06:24:10.878Z",
+                  "publishedAt": "2024-06-28T06:24:10.873Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 41,
+                "attributes": {
+                  "name": "CM-06",
+                  "info": "\u003Cp\u003EКомплект для сварки труб от 20 до 40 мм. Мощность 1500 Вт.\u003C/p\u003E\u003Cp\u003EЕсли на сварочный аппарат “CANDAN CM-03” можно установить сварочные насадки от 20 до 50 мм, то у “CANDAN CM-06” максимальный размер используемых насадок может быть до 40 мм. В принципе, если Вам нужен качественный паяльник для ремонта у себя дома, а дома максимальный размер труб 32 мм, то “CANDAN CM-06” – это отличный вариант.\u003C/p\u003E\u003Cp\u003EТехнические характеристики “CANDAN СМ-06”:\u003Cbr\u003EДиаметры свариваемых труб: 16 – 50 мм;\u003Cbr\u003EМощность: 1500 Вт (двойной элемент 750+750 Вт);\u003Cbr\u003EНапряжение: 220-240 В;\u003Cbr\u003EЧастота 50-60 Гц;\u003Cbr\u003EРабочая температура: 270 ºС;\u003Cbr\u003EНагреватель из нержавеющего материала с возможностью одновременной установки сразу трех нагревательных насадок;\u003Cbr\u003EИндикатор регулировки термостата: 50 – 320 ºС;\u003Cbr\u003EКабель питания: 3 х 2,5 мм, длина 160 см;\u003Cbr\u003EУровень защиты: IP 44;\u003Cbr\u003EПредохранитель: 16 А;\u003Cbr\u003EВес: 5,0 кг;\u003Cbr\u003EАртикул: CM-06;\u003Cbr\u003EИсточник: https://candan.ru/product/svarochnyj-apparat-candan-sm-06\u003C/p\u003E",
+                  "price": "1",
+                  "createdAt": "2024-06-28T06:26:38.314Z",
+                  "updatedAt": "2024-06-28T06:26:39.425Z",
+                  "publishedAt": "2024-06-28T06:26:39.420Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 5,
+              "attributes": {
+                "name": "Candan",
+                "createdAt": "2024-06-22T19:32:19.876Z",
+                "updatedAt": "2024-06-22T19:32:21.160Z",
+                "publishedAt": "2024-06-22T19:32:21.156Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 50,
+              "attributes": {
+                "name": "photo_2024-06-27_21-50-43.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 853,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "/uploads/large_photo_2024_06_27_21_50_43_45072aa84e.jpg",
+                    "hash": "large_photo_2024_06_27_21_50_43_45072aa84e",
+                    "mime": "image/jpeg",
+                    "name": "large_photo_2024-06-27_21-50-43.jpg",
+                    "path": null,
+                    "size": 66.72,
+                    "width": 1000,
+                    "height": 666,
+                    "sizeInBytes": 66715
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_06_27_21_50_43_45072aa84e.jpg",
+                    "hash": "small_photo_2024_06_27_21_50_43_45072aa84e",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-06-27_21-50-43.jpg",
+                    "path": null,
+                    "size": 22.23,
+                    "width": 500,
+                    "height": 333,
+                    "sizeInBytes": 22234
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2024_06_27_21_50_43_45072aa84e.jpg",
+                    "hash": "medium_photo_2024_06_27_21_50_43_45072aa84e",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2024-06-27_21-50-43.jpg",
+                    "path": null,
+                    "size": 41.95,
+                    "width": 750,
+                    "height": 500,
+                    "sizeInBytes": 41946
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_06_27_21_50_43_45072aa84e.jpg",
+                    "hash": "thumbnail_photo_2024_06_27_21_50_43_45072aa84e",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-06-27_21-50-43.jpg",
+                    "path": null,
+                    "size": 6.81,
+                    "width": 234,
+                    "height": 156,
+                    "sizeInBytes": 6810
+                  }
+                },
+                "hash": "photo_2024_06_27_21_50_43_45072aa84e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 99.83,
+                "url": "/uploads/photo_2024_06_27_21_50_43_45072aa84e.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-27T16:50:52.124Z",
+                "updatedAt": "2024-06-27T16:50:52.124Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 15,
+        "attributes": {
+          "name": "Другие",
+          "createdAt": "2024-07-04T13:10:00.444Z",
+          "updatedAt": "2024-07-04T13:10:01.900Z",
+          "publishedAt": "2024-07-04T13:10:01.896Z",
+          "locale": "en",
+          "products": {
+            "data": []
+          },
+          "category": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Expert",
+                "createdAt": "2024-06-22T19:27:06.510Z",
+                "updatedAt": "2024-06-22T19:27:08.634Z",
+                "publishedAt": "2024-06-22T19:27:08.623Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "photo_2023-10-01_12-07-03.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 960,
+                "height": 767,
+                "formats": {
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2023_10_01_12_07_03_41981fa78b.jpg",
+                    "hash": "small_photo_2023_10_01_12_07_03_41981fa78b",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2023-10-01_12-07-03.jpg",
+                    "path": null,
+                    "size": 15.56,
+                    "width": 500,
+                    "height": 399,
+                    "sizeInBytes": 15558
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2023_10_01_12_07_03_41981fa78b.jpg",
+                    "hash": "medium_photo_2023_10_01_12_07_03_41981fa78b",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2023-10-01_12-07-03.jpg",
+                    "path": null,
+                    "size": 26.67,
+                    "width": 750,
+                    "height": 599,
+                    "sizeInBytes": 26669
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2023_10_01_12_07_03_41981fa78b.jpg",
+                    "hash": "thumbnail_photo_2023_10_01_12_07_03_41981fa78b",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2023-10-01_12-07-03.jpg",
+                    "path": null,
+                    "size": 4.87,
+                    "width": 196,
+                    "height": 156,
+                    "sizeInBytes": 4869
+                  }
+                },
+                "hash": "photo_2023_10_01_12_07_03_41981fa78b",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 39.01,
+                "url": "/uploads/photo_2023_10_01_12_07_03_41981fa78b.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-06-22T19:27:01.375Z",
+                "updatedAt": "2024-06-22T19:27:01.375Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 16,
+        "attributes": {
+          "name": "Латунный шаровой кран с термометром",
+          "createdAt": "2024-07-06T06:29:36.077Z",
+          "updatedAt": "2024-07-06T06:29:37.896Z",
+          "publishedAt": "2024-07-06T06:29:37.884Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 54,
+                "attributes": {
+                  "name": "Латунный шаровой кран с термометром. Прямой.",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgba(0,0,0,0.894);font-family:SegoeUIVariable, SegoeUI, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, &quot;Microsoft YaHei&quot;, &quot;Meiryo UI&quot;, Meiryo, &quot;Arial Unicode MS&quot;, sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EЛатунный шаровой кран с термометром — это арматура, используемая в системах водоснабжения и отопления. Он представляет собой шаровой кран с корпусом из латуни и встроенным термометром.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E7701\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E36\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-06T06:34:27.619Z",
+                  "updatedAt": "2024-07-06T06:37:17.713Z",
+                  "publishedAt": "2024-07-06T06:37:17.709Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 55,
+                "attributes": {
+                  "name": "Латунный шаровой кран с термометром. Угловой.",
+                  "info": "\u003Cp\u003E\u003Cspan style=\"color:rgba(0,0,0,0.894);font-family:SegoeUIVariable, SegoeUI, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, &quot;Microsoft YaHei&quot;, &quot;Meiryo UI&quot;, Meiryo, &quot;Arial Unicode MS&quot;, sans-serif;font-size:14px;\"\u003E\u003Cspan style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"\u003EЛатунный шаровой кран с термометром — это арматура, используемая в системах водоснабжения и отопления. Он представляет собой шаровой кран с корпусом из латуни и встроенным термометром.\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E7702\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E36\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-06T06:40:02.751Z",
+                  "updatedAt": "2024-07-06T06:40:03.891Z",
+                  "publishedAt": "2024-07-06T06:40:03.886Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 56,
+                "attributes": {
+                  "name": "Латунный шаровой кран с термометром. Угловой и Прямой.",
+                  "info": "\u003Cp\u003EВ данном комплектации есть один угловой и один прямой кран с термометром. &nbsp;Можно изменить цвет ручки крана в зависомости от ваших потребностей.\u003C/p\u003E\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003E7703\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E36\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-06T06:49:13.202Z",
+                  "updatedAt": "2024-07-06T15:01:30.295Z",
+                  "publishedAt": "2024-07-06T15:01:30.291Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Expert",
+                "createdAt": "2024-06-22T19:27:06.510Z",
+                "updatedAt": "2024-06-22T19:27:08.634Z",
+                "publishedAt": "2024-06-22T19:27:08.623Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 68,
+              "attributes": {
+                "name": "photo_2024-05-13_18-58-59.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1031,
+                "height": 1280,
+                "formats": {
+                  "large": {
+                    "ext": ".jpg",
+                    "url": "/uploads/large_photo_2024_05_13_18_58_59_8215a6a5b2.jpg",
+                    "hash": "large_photo_2024_05_13_18_58_59_8215a6a5b2",
+                    "mime": "image/jpeg",
+                    "name": "large_photo_2024-05-13_18-58-59.jpg",
+                    "path": null,
+                    "size": 144.94,
+                    "width": 805,
+                    "height": 1000,
+                    "sizeInBytes": 144939
+                  },
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2024_05_13_18_58_59_8215a6a5b2.jpg",
+                    "hash": "small_photo_2024_05_13_18_58_59_8215a6a5b2",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2024-05-13_18-58-59.jpg",
+                    "path": null,
+                    "size": 37.84,
+                    "width": 403,
+                    "height": 500,
+                    "sizeInBytes": 37836
+                  },
+                  "medium": {
+                    "ext": ".jpg",
+                    "url": "/uploads/medium_photo_2024_05_13_18_58_59_8215a6a5b2.jpg",
+                    "hash": "medium_photo_2024_05_13_18_58_59_8215a6a5b2",
+                    "mime": "image/jpeg",
+                    "name": "medium_photo_2024-05-13_18-58-59.jpg",
+                    "path": null,
+                    "size": 83.9,
+                    "width": 604,
+                    "height": 750,
+                    "sizeInBytes": 83900
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2024_05_13_18_58_59_8215a6a5b2.jpg",
+                    "hash": "thumbnail_photo_2024_05_13_18_58_59_8215a6a5b2",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2024-05-13_18-58-59.jpg",
+                    "path": null,
+                    "size": 4.69,
+                    "width": 125,
+                    "height": 156,
+                    "sizeInBytes": 4688
+                  }
+                },
+                "hash": "photo_2024_05_13_18_58_59_8215a6a5b2",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 221.54,
+                "url": "/uploads/photo_2024_05_13_18_58_59_8215a6a5b2.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-07-06T06:29:33.588Z",
+                "updatedAt": "2024-07-06T07:38:44.955Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": 17,
+        "attributes": {
+          "name": "(Трёхходовой) СОЕДИНЕНИЕ ЛАТУННОГО СМЕСИТЕЛЬНОГО КЛАПАНА ",
+          "createdAt": "2024-07-06T16:31:15.550Z",
+          "updatedAt": "2024-07-07T08:03:17.827Z",
+          "publishedAt": "2024-07-06T16:31:16.601Z",
+          "locale": "en",
+          "products": {
+            "data": [
+              {
+                "id": 59,
+                "attributes": {
+                  "name": "(Трёхходовой) СОЕДИНЕНИЕ ЛАТУННОГО СМЕСИТЕЛЬНОГО КЛАПАНА",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ELM1008A\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E35-60C\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-07T07:58:09.009Z",
+                  "updatedAt": "2024-07-07T08:03:02.418Z",
+                  "publishedAt": "2024-07-07T07:58:10.637Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 60,
+                "attributes": {
+                  "name": "(Трёхходовой) СОЕДИНЕНИЕ ЛАТУННОГО СМЕСИТЕЛЬНОГО КЛАПАНА И ОБРАТНЫЙ КЛАПАН",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. к коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ELM1009A\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E35-60C\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-07T08:00:50.676Z",
+                  "updatedAt": "2024-07-07T08:00:51.853Z",
+                  "publishedAt": "2024-07-07T08:00:51.848Z",
+                  "locale": "en"
+                }
+              },
+              {
+                "id": 61,
+                "attributes": {
+                  "name": "(Трёхходовой) СОЕДИНЕНИЕ ЛАТУННОГО СМЕСИТЕЛЬНОГО КЛАПАНА",
+                  "info": "\u003Cfigure class=\"table\"\u003E\u003Ctable\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EАртикул\u003C/td\u003E\u003Ctd\u003EРазмер\u003C/td\u003E\u003Ctd\u003EКол. в коробке\u003C/td\u003E\u003C/tr\u003E\u003Ctr\u003E\u003Ctd\u003ELM1010A\u003C/td\u003E\u003Ctd\u003E1\"\u003C/td\u003E\u003Ctd\u003E35-60C\u003C/td\u003E\u003C/tr\u003E\u003C/tbody\u003E\u003C/table\u003E\u003C/figure\u003E",
+                  "price": "1",
+                  "createdAt": "2024-07-07T08:02:42.911Z",
+                  "updatedAt": "2024-07-07T08:02:44.200Z",
+                  "publishedAt": "2024-07-07T08:02:44.187Z",
+                  "locale": "en"
+                }
+              }
+            ]
+          },
+          "category": {
+            "data": {
+              "id": 2,
+              "attributes": {
+                "name": "Expert",
+                "createdAt": "2024-06-22T19:27:06.510Z",
+                "updatedAt": "2024-06-22T19:27:08.634Z",
+                "publishedAt": "2024-06-22T19:27:08.623Z",
+                "locale": "en"
+              }
+            }
+          },
+          "image": {
+            "data": {
+              "id": 73,
+              "attributes": {
+                "name": "photo_2023-05-28_13-41-48.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 720,
+                "height": 720,
+                "formats": {
+                  "small": {
+                    "ext": ".jpg",
+                    "url": "/uploads/small_photo_2023_05_28_13_41_48_bb0f69580c.jpg",
+                    "hash": "small_photo_2023_05_28_13_41_48_bb0f69580c",
+                    "mime": "image/jpeg",
+                    "name": "small_photo_2023-05-28_13-41-48.jpg",
+                    "path": null,
+                    "size": 16.01,
+                    "width": 500,
+                    "height": 500,
+                    "sizeInBytes": 16010
+                  },
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "/uploads/thumbnail_photo_2023_05_28_13_41_48_bb0f69580c.jpg",
+                    "hash": "thumbnail_photo_2023_05_28_13_41_48_bb0f69580c",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_photo_2023-05-28_13-41-48.jpg",
+                    "path": null,
+                    "size": 2.96,
+                    "width": 156,
+                    "height": 156,
+                    "sizeInBytes": 2958
+                  }
+                },
+                "hash": "photo_2023_05_28_13_41_48_bb0f69580c",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 27.58,
+                "url": "/uploads/photo_2023_05_28_13_41_48_bb0f69580c.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-07-06T16:27:45.792Z",
+                "updatedAt": "2024-07-06T16:27:45.792Z"
+              }
+            }
+          },
+          "localizations": {
+            "data": []
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 100,
+        "pageCount": 1,
+        "total": 10
+      }
+    }
   }
-]
