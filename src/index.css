@@ -83,6 +83,17 @@ button {
   cursor: pointer;
 }
 
+table {
+  background-color: black;
+  margin-top: 20px;
+}
+
+th,
+td {
+  padding: 10px;
+  background-color: #fff;
+}
+
 @media (max-width: 1439px) {
   :root {
     --font12: 12px;

@@ -15,16 +15,19 @@ export default function Subcategories() {
     (el) => el.attributes.category.data.id === category.id
   );
 
-  const data2 = products.data.filter(
-    (p) =>
-      p.attributes.category.data &&
-      p.attributes.category.data.id === category.id &&
-      !p.attributes.subcategory.data
-  );
-  // .map((p) => {
-  //   return { ...p, slug: `product/${p.attributes.slug}` };
-  // });
-  console.log(data2);
+  const data2 = products.data
+    .filter(
+      (p) =>
+        p.attributes.category.data &&
+        p.attributes.category.data.id === category.id &&
+        !p.attributes.subcategory.data
+    )
+    .map((p) => {
+      return {
+        ...p,
+        attributes: { ...p.attributes, slug: `product/${p.attributes.slug}` },
+      };
+    });
 
   return (
     <>
