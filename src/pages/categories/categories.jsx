@@ -7,7 +7,7 @@ export default function CategoriesPage() {
     <div>
       <Categories
         baseLink={"/categories"}
-        data={categories}
+        data={categories.data}
         title={"Categories"}
       />
     </div>

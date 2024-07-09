@@ -8,19 +8,28 @@ import { useParams } from "react-router-dom";
 export default function Subcategories() {
   const { categorySlug } = useParams();
 
-  console.log(categorySlug);
-  const category = categories.find((el) => el.slug === categorySlug);
-  const data = subcategories.filter((el) => el.categoryId === category.id);
-  const data2 = products
-    .filter((p) => p.categoryId === category.id && !p.subcategoryId)
-    .map((p) => {
-      return { ...p, slug: `product/${p.slug}` };
-    });
+  const category = categories.data.find(
+    (el) => el.attributes.slug === categorySlug
+  );
+  const data = subcategories.data.filter(
+    (el) => el.attributes.category.data.id === category.id
+  );
+
+  const data2 = products.data.filter(
+    (p) =>
+      p.attributes.category.data &&
+      p.attributes.category.data.id === category.id &&
+      !p.attributes.subcategory.data
+  );
+  // .map((p) => {
+  //   return { ...p, slug: `product/${p.attributes.slug}` };
+  // });
+  console.log(data2);
 
   return (
     <>
       <Categories
-        title={category.name}
+        title={category.attributes.name}
         data={[...data, ...data2]}
         baseLink={`/categories/${categorySlug}`}
       />

@@ -12,7 +12,7 @@ export default function Home() {
       <Categories
         home
         baseLink={"/categories"}
-        data={categories.slice(0, 8)}
+        data={categories.data.slice(0, 8)}
         title={"Categories"}
       />
       <Info />
