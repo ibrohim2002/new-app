@@ -29,6 +29,7 @@
   -webkit-box-shadow: 0px 0px 10px 1px rgba(243, 243, 243, 1);
   -moz-box-shadow: 0px 0px 10px 1px rgba(243, 243, 243, 1);
   box-shadow: 0px 0px 10px 1px rgba(243, 243, 243, 1);
+  border-radius: 10px;
 }
 
 .candle_paragraph {
