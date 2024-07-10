@@ -13,7 +13,7 @@ export default function Footer() {
           <Link to={``} className="logo">
             <img src="/icons/logo.svg" alt="logo" />
           </Link>
-          <p>{"Официальный представитель\n Ledtao, Absen, Novastar, Huidu"}</p>
+          <p>{"Официальный представитель\n Expert, Dayan, Candan, OTONO,"}</p>
           <div className="icons">
             <a href={contacts?.telegram || ""}>
               <img src="/icons/header_telegram.svg" alt="header icon" />
@@ -25,23 +25,20 @@ export default function Footer() {
       </div>
       <div className="middle">
         <h6>
-          <Link to={`/catalog`}>Каталог</Link>
+          <Link to={`/categories`}>Каталог</Link>
         </h6>
         <p>
-          {categories && categories.length
-            ? categories.map(({ name, slug }, index) => {
+          {categories && categories.data.length
+            ? categories.data.slice(0, 3).map(({ attributes, id }) => {
                 return (
-                  <Link key={index} to={`/catalog?categorySlug=${slug}`}>
-                    {name}
+                  <Link key={id} to={`/categories/${attributes.slug}`}>
+                    {attributes.name}
                   </Link>
                 );
               })
             : ""}
         </p>
 
-        <h6>
-          <Link to={`/#about`}>About</Link>
-        </h6>
         <h6>
           <Link to={`/contacts`}>Контакты</Link>
         </h6>

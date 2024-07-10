@@ -8,7 +8,7 @@ export default function CategoriesPage() {
       <Categories
         baseLink={"/categories"}
         data={categories.data}
-        title={"Categories"}
+        title={"Наши бренды"}
       />
     </div>
   );

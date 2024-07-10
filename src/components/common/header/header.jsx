@@ -12,9 +12,9 @@ export default function Header() {
         <img src="/icons/logo.svg" alt="logo" className="logo" />
       </Link>
       <div className="header_middle">
-        <Link to="/categories">Categories</Link>
-        <Link to="/#about">About</Link>
-        <Link to="/#contact">Contact us</Link>
+        <Link to="/categories">Наши бренды</Link>
+        {/* <Link to="/#about">About</Link> */}
+        <Link to="/contacts">Контакты</Link>
       </div>
       <div className="header_right">
         <Basket />

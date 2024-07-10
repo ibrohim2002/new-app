@@ -8,6 +8,7 @@ import Products from "./pages/products/products";
 
 import "./index.css";
 import Footer from "./components/common/footer/footer";
+import Contacts from "./pages/contacts/contacts";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/categories" element={<Categories />} />
+        <Route path="/contacts" element={<Contacts />} />
         <Route path="/categories/:categorySlug" element={<Subcategories />} />
         <Route
           path="/categories/:categorySlug/:subcategorySlug"

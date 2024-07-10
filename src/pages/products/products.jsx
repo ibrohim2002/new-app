@@ -13,8 +13,7 @@ export default function Products() {
   const data = products.data.filter(
     (el) =>
       el.attributes.subcategory.data &&
-      el.attributes.subcategory.data.id === subcategory.id &&
-      !el.attributes.category.data
+      el.attributes.subcategory.data.id === subcategory.id
   );
   return (
     <>

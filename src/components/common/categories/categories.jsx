@@ -9,7 +9,7 @@ export default function Categories({ home, baseLink, title, data }) {
     <Container className="category">
       <h2 className="category_h2">{title}</h2>
       {home ? (
-        <p className="category_p">Order it for you or for your beloved ones</p>
+        <p className="category_p">Закажите его для себя или своих близких</p>
       ) : null}
       <Cards data={data} className="category_cards" baseLink={baseLink} />
       {home ? (

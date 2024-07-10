@@ -2,7 +2,6 @@ import React from "react";
 import "./styles.css";
 import Container from "../../../components/common/container/container";
 import Button from "../../../components/common/button/button";
-import Categories from "../../../components/common/categories/categories";
 
 export default function Info() {
   return (
