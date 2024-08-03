@@ -52,7 +52,7 @@ export default function Contacts() {
           </div>
           <div className={"right_info div4"}>
             <div className={`$"label" notranslate`}>Email:</div>
-            <a href={"mailto:" + contacts.email} className="text">
+            <a href={"mailto:" + contacts.email} className="text notranslate">
               {contacts.email}
             </a>
           </div>

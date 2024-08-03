@@ -1,0 +1,14 @@
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  text-transform: uppercase;
+}
+.lang-switch-span {
+  cursor: pointer;
+  color: #fff;
+}
+
+.lang-switch-span.active {
+  color: #fff;
+}

@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import Container from "../container/container";
 import categories from "../../../data/categories.json";
 import contacts from "../../../data/contacts.json";
+import LangSwitch from "../LangSwitch/LangSwitch";
 
 import "./styles.css";
 
@@ -20,8 +21,7 @@ export default function Footer() {
             </a>
           </div>
         </div>
-        {/* <LangSwitcher lng={lng} backColor="#222222" /> */}
-        <p>UZ</p>
+        <LangSwitch />
       </div>
       <div className="middle">
         <h6>

@@ -5,14 +5,16 @@ import Product from "./pages/product/product";
 import Header from "./components/common/header/header";
 import Subcategories from "./pages/subcategories/subcategories";
 import Products from "./pages/products/products";
-
-import "./index.css";
+import PageLoading from "./components/PageLoading/PageLoading";
 import Footer from "./components/common/footer/footer";
 import Contacts from "./pages/contacts/contacts";
+
+import "./index.css";
 
 function App() {
   return (
     <div className="app">
+      <PageLoading />
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />

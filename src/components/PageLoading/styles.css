@@ -1,0 +1,38 @@
+.page-loading-done {
+  display: none;
+}
+
+.page-loading {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #fff;
+  z-index: 1000;
+}
+
+.page-loading-logo {
+  width: 300px; /* Adjust size as needed */
+  height: auto;
+  opacity: 0;
+  animation: fadeUp 1s ease-in-out forwards;
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
