@@ -19,28 +19,30 @@ export function translate(lng) {
 
 export default function TranslationProvider({ children }) {
   useEffect(() => {
-    const googleTranslateElementInit = () => {
-      new window.google.translate.TranslateElement(
-        { pageLanguage: "ru" },
-        "google_translate_element"
-      );
-    };
+    setTimeout(() => {
+      const googleTranslateElementInit = () => {
+        new window.google.translate.TranslateElement(
+          { pageLanguage: "ru" },
+          "google_translate_element"
+        );
+      };
 
-    const addTranslateScript = () => {
-      const script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src =
-        "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-      script.async = true;
-      script.onload = googleTranslateElementInit;
-      document.body.appendChild(script);
-    };
+      const addTranslateScript = () => {
+        const script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src =
+          "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+        script.async = true;
+        script.onload = googleTranslateElementInit;
+        document.body.appendChild(script);
+      };
 
-    if (!window.google || !window.google.translate) {
-      addTranslateScript();
-    } else {
-      googleTranslateElementInit();
-    }
+      if (!window.google || !window.google.translate) {
+        addTranslateScript();
+      } else {
+        googleTranslateElementInit();
+      }
+    }, 100);
   }, []);
 
   return (
